@@ -1,3 +1,3 @@
 # jira-testing
 
-just for funb
+just for fun 2
